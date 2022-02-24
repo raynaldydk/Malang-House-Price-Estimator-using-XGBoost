@@ -5,7 +5,8 @@
 * Optimized XGBoost Regressor using RandomSearchCV & GridSearchCV to reach the best model.
 
 ## Resources Used
-* Python 
+* Python
+* Jupyter Notebook
 * Packages: pandas, numpy, sklearn, seaborn, matplotlib, bs4, pickle, jcopml, missingno
 
 ## Web Scraping
