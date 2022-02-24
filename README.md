@@ -42,6 +42,8 @@ After scraping data I clean the data so it can be used to our model later. What 
 * For categorical features I preprocess it using sklearn one hot encoder in the pipeline
 * Use RandomizedSearchCV to get the best result
 
+![xgboost](https://user-images.githubusercontent.com/96482347/155475048-f70a4fbc-8f97-450a-a7fb-7d057e7098b7.png)
+
 ## Model Evaluation
 * First model have 96% accuracy on training data ,but only 87.5% on test. The model is overfitted.
 * I tune the model hyperparameter using GridSearchCV and do some experiment.
