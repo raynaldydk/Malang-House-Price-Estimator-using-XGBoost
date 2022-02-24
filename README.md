@@ -6,7 +6,7 @@
 
 ## Resources Used
 * Python 
-* Packages: pandas, numpy, sklearn, seaborn, matplotlib, bs4, pickle, jcopml
+* Packages: pandas, numpy, sklearn, seaborn, matplotlib, bs4, pickle, jcopml, missingno
 
 ## Web Scraping
 Create webscraper for lamudi.co.id to scrape 100 pages of house listing in Malang. With each listing we got:
