@@ -4,7 +4,7 @@
 * Enginereed price/m2 feature for removing outliers
 * Optimized XGBoost Regressor using RandomSearchCV & GridSearchCV to reach the best model.
 
-## Code & Resources Used
+## Resources Used
 * Python 
 * Packages: pandas, numpy, sklearn, seaborn, matplotlib, bs4, pickle, jcopml
 
