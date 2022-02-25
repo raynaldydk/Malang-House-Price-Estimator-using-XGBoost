@@ -1,5 +1,5 @@
 # Malang House Price Estimator: Project Overview
-* Create a tool to estimate house price in Malang (MAE ~ Rp. 300 jt.) to help people get solid ground price before buying a house in Malang.
+* Create a tool to estimate house price in Malang (MAE ~ 300 M IDR) to help people get solid ground price before buying a house in Malang.
 * Scraped 3000 house listing from Lamudi.co.id using Python & BeautifulSoup
 * Enginereed price/m2 feature for removing outliers
 * Optimized XGBoost Regressor using RandomSearchCV & GridSearchCV to reach the best model.
